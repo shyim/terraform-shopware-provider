@@ -6,7 +6,7 @@ require (
 	github.com/friendsofshopware/go-shopware-admin-api-sdk v0.0.0-20231202203025-ead6671a4bdf
 	github.com/gofrs/uuid/v5 v5.0.0
 	github.com/hashicorp/terraform-plugin-docs v0.18.0
-	github.com/hashicorp/terraform-plugin-framework v1.6.0
+	github.com/hashicorp/terraform-plugin-framework v1.6.1
 )
 
 require (
